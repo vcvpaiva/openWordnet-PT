@@ -1,62 +1,8 @@
-
-Gmail
-COMPOSE
-Labels
-Inbox
-Sent Mail
-Drafts (240)
-Spam (793)
-Trash
-[Gmail]
-[Gmail]Drafts
-[Gmail]Trash (4)
-d/[Gmail]/Sent Mail
-d/Deleted Messages (14)
-d/Drafts
-d/Notes
-d/Sent Messages
-dDeleted Messages
-dSent Messages
-FindBigMail - Top
-GradeGrinder (4)
-iBourbaki
-logic
-Notes
-valeriacvpaiva@yahoo.com
-More 
-Hangouts
-
- 
- 
- 
-  More 
-4 of 72  
- 
-Collapse all Print all In new window
-da' pra voce me dizer 
-Inbox
-x 
-
-Valeria de Paiva <valeria.depaiva@gmail.com>
-11:05 AM (12 hours ago)
-
-to Fabricio 
-se os verbos em 
-https://github.com/vcvpaiva/openWordnet-PT/blob/master/B2SG/sino.verb
-estao todos em OWN-PT ou melhor quais nao estao?
-seria uma mao na roda.
-
-
-Fabricio Chalub
-Attachments4:41 PM (7 hours ago)
-
-to me 
-Quebrando o sino.verb em verbos individuais e removendo os prefixos
-sao estes os verbos unicos de la':
-
-arredondar
-auferir
-aventar
+% verbos em sino.verb mas nao em own-pt
+------------
+arredondar: added
+auferir: added
+aventar: added
 coleccionar
 esmigalhar
 intervir
@@ -67,36 +13,8 @@ rastrear
 resfolegar
 sachar
 tonel
-
-Note que eu nao busquei nas sugestoes -- apenas nos verbos comitados.
-
-Em anexo a lista de verbos da wn (wn.txt) e os verbos do sino (sino.txt).
-
-2 Attachments 
- 
-
-Valeria de Paiva <valeria.depaiva@gmail.com>
-5:05 PM (6 hours ago)
-
-to Fabricio 
-Excellent, we're not doing too badly!
-
-if you had time to look at Hugo's paper you'll see that he says we have a fraction of the verbs of other wordnets, but we're still top on the quality in Table 8, but the top is not soo good, around 60%...
-
-thanks a lot!
-
-	
-Click here to Reply or Forward
-11.81 GB (69%) of 17 GB used
-Manage
-Terms - Privacy
-Last account activity: 27 minutes ago
-Details
-Fabricio's profile photo
-Fabricio
-fcbrbr@gmail.com
-
-Show details
+-----------
+%all verbs in sino.verb
 
 
 abaixar
