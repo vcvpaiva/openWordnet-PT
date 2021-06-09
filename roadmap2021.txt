@@ -86,7 +86,7 @@ Mostly copied from Alexandre's list of publications (thanks for being so organiz
     In Legal Knowledge and Information Systems, edited by Monica Palmirani. Vol. 313. Frontiers in Artificial Intelligence and Applications. 
     http://ebooks.iospress.nl/volumearticle/50848
     
-    22.  “Portuguese Manners of Speaking.”de Paiva, Valeria de, and Alexandre Rademaker. 2019.
+    22.  “Portuguese Manners of Speaking.”de Paiva, Valeria, and Alexandre Rademaker. 2019.
     In Proceedings of the 10th Global Wordnet Conference. Global Wordnet Association.
     
     
