@@ -1,4 +1,8 @@
-This is kind of silly. It would make more sense to have this list hanging of the homepage of OWN-PT itself, and maybe it will get there soon, but for the time being I need a list of our publications about OpenWordnet-PT and so this is it. Mostly copied from Alexandre's list of publications (thanks for being so organized Alexandre!!!).
+It would make more sense to have this list hanging of the homepage of OWN-PT itself, 
+and maybe it will get there soon, but for the time being I need a list of our publications 
+about OpenWordnet-PT and so this is it. 
+
+Mostly copied from Alexandre's list of publications (thanks for being so organized Alexandre!!!).
 
    1. “Revisiting a Brazilian WordNet.” de Paiva, Valeria, and Alexandre Rademaker. 
    In Proceedings of Global Wordnet Conference. Matsue: Global Wordnet Association. 2012
